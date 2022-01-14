@@ -27,7 +27,8 @@ DEBUG = True
 
 # Application definition
 
-ALLOWED_HOSTS = ['192.168.1.121']
+#Rey's VM addr
+# ALLOWED_HOSTS = ['192.168.1.121']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
